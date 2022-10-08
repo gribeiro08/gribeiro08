@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🔭 Estudante de Engenharia de Software
+- 🌱 Estande do curso in-company Brasdesco - Android Nativo
+- 🤔 Voluntária em pesquisas de projetos de mestrado e doutorado 
 - 📫 contate-me pelo email: gr08.ribeiro@gmail.com
 <!--
 **gribeiro08/gribeiro08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
