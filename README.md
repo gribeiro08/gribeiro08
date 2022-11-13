@@ -40,7 +40,6 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/gabi_ribeiro08/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gr08.ribeiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-ribeiro-44b6a9238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
   
   ![Snake animation](https://github.com/gribeiro08/gribeiro08/blob/output/github-contribution-grid-snake.svg) 
