@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Estudante de Engenharia de Software
-- 🌱 Estande do curso in-company Brasdesco - Android Nativo
+- 🌱 Estudante de Engenharia de Software
+- 🔭 Desenvolvedora de software Android
 - 🤔 Voluntária em pesquisas de projetos de mestrado e doutorado 
 - 📫 contate-me pelo email: gr08.ribeiro@gmail.com
 <!--
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabi-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Gabi-Kotlin" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Kotlin_Icon.svg">
+  
 </div>
 
 ##
