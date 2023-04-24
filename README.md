@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabi-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Gabi-Kotlin" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">
-  <img align="center" alt="Gabi-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Gabi-SQL" height="30" width="40" heref="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   
 </div>
 
