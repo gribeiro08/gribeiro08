@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 Estudante de Engenharia de Software
-- 🔭 Desenvolvedora de software Android
-- 🤔 Voluntária em pesquisas de projetos de mestrado e doutorado 
-- 📫 contate-me pelo email: gr08.ribeiro@gmail.com
+- 🌱 Estudante de Engenharia de Software;
+- 🔭 Desenvolvedora de software Android;
+- 🤔 Voluntária em pesquisas de projetos de mestrado e doutorado;
+- 📫 contate-me pelo email: gr08.ribeiro@gmail.com;
 <!--
 **gribeiro08/gribeiro08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <div align="left">
+<!-- <div align="left">
   <a href="https://github.com/gribeiro08">
   <img height="160em" src="https://github-readme-stats-rho-snowy.vercel.app/api?username=gribeiro08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-rho-snowy.vercel.app/api/top-langs/?username=gribeiro08&layout=compact&langs_count=7&theme=dracula"/>
-
+</div> -->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
