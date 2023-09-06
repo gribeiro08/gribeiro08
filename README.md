@@ -24,6 +24,10 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats-rho-snowy.vercel.app/api?username=gribeiro08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-rho-snowy.vercel.app/api/top-langs/?username=gribeiro08&layout=compact&langs_count=7&theme=dracula"/>
 </div> --> 
+
+<a href="https://github.com/gribeiro08/gribeiro08"><img alt="gribeiro08's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gribeiro08&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/gribeiro08/gribeiro08"><img alt="gribeiro08's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gribeiro08&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
