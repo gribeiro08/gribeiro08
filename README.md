@@ -2,7 +2,6 @@
 
 - 🌱 Estudante de Engenharia de Software;
 - 🔭 Desenvolvedora de software Android;
-- 🤔 Voluntária em pesquisas de projetos de mestrado e doutorado;
 - 📫 contate-me pelo email: gr08.ribeiro@gmail.com;
 <!--
 **gribeiro08/gribeiro08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
