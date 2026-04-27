@@ -60,6 +60,14 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/gabriela-ribeiro-44b6a9238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<!--
 #### My contribution graph get eaten by the snake 🐍:
 ![github-contribution-grid-snake](https://github.com/wkylin/wkylin/blob/output/github-contribution-grid-snake.svg)
-  
+-->
+
+## 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gribeiro08/gribeiro08/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://github.com/gribeiro08/gribeiro08/blob/output/github-contribution-grid-snake.svg">
+</picture>
